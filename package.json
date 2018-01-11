@@ -1,9 +1,9 @@
 {
-  "name": "oceanic-next",
+  "name": "zealous",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Based on the Sublime Text theme",
-  "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
+  "description": "Just another syntax theme devoted to bringing colour to your Atom.",
+  "repository": "https://github.com/ericadamski/oceanic-next-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
